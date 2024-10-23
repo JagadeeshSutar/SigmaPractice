@@ -1,0 +1,46 @@
+.eye {
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  display: inline-block;
+  position: center;
+  margin: 33px;
+  border-radius: 50%;
+
+}
+
+.eyes {
+  margin: 30px;
+  top: 30px;
+  left: 10px;
+  position: absolute;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(222, 130, 10);
+  border-radius: 50%;
+  border: 2px solid black;
+}
+.mouth {
+  width:180px;
+  height: 180px;
+  background-color: rgb(254, 254, 254);
+  border-radius: 50% 50%;
+  border: 2px solid white;
+
+  position: absolute;
+  top: 70px;
+  left: 67px;
+}
+
+.black{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 35px;
+  left: 59px;
+  background-color: rgb(222, 130, 10);
+  border-radius: 50%;
+}

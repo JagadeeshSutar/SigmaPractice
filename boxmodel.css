@@ -1,0 +1,25 @@
+.box1{
+  width: 10rem;
+  height: 10rem;
+  background-color:  black;
+  border-radius: 50%;
+
+}
+
+.box2{
+  width: 20rem;
+  height: 10rem;
+  background-color: red;
+  padding: 5rem;
+  margin: 5rem;
+  border-radius: 2rem;
+}
+
+.box3{
+  width: 20rem;
+  height: 10rem;
+  background-color: blue;
+  border-radius: 0 5rem 0 5rem;
+  margin: 10rem;
+
+}
